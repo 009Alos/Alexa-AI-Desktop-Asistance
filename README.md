@@ -1,5 +1,5 @@
 # Alexa-AI-Desktop-Asistance
-You can  Aotumate your desktop by using your Voice
+You can  Automate your desktop by using your Voice
 
 
 
